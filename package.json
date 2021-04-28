@@ -1,0 +1,24 @@
+{
+  "name": "weather-app-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arndzk/weather-app-nodejs.git"
+  },
+  "author": "arndzk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arndzk/weather-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/arndzk/weather-app-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "postman-request": "*",
+    "request": "^2.88.2"
+  }
+}
